@@ -1,0 +1,15 @@
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.exe
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.deps.json
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.runtimeconfig.json
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.dll
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.pdb
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.csproj.AssemblyReference.cache
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.AssemblyInfoInputs.cache
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.AssemblyInfo.cs
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.csproj.CoreCompileInputs.cache
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.dll
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\refint\MagicDestroyers.dll
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.pdb
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.genruntimeconfig.cache
+C:\Users\AnnaTeklaDavid\Desktop\tek\C#\MagicDestroyers\MagicDestroyers\obj\Debug\net6.0\ref\MagicDestroyers.dll
